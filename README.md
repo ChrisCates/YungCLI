@@ -1,7 +1,10 @@
 # Yung C++ CLI Tool
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 [![Build Status](https://travis-ci.org/ChrisCates/YungCLI.svg?branch=master)](https://travis-ci.org/ChrisCates/YungCLI)
 [![Coverage Status](https://coveralls.io/repos/github/ChrisCates/YungCLI/badge.svg?branch=master)](https://coveralls.io/github/ChrisCates/YungCLI?branch=master)
+![NPM Version](https://img.shields.io/badge/npm-v6.4.1-blue.svg)
+![Node Version](https://img.shields.io/badge/node-v10.14.1-blue.svg)
 
 Use this CLI tool to easily bootstrap new Yung C++ projects and create project templates.
 
