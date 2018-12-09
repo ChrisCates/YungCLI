@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 "use strict";
 exports.__esModule = true;
 exports.REPO_URL = 'https://codeload.github.com/ChrisCates/YungCPP/zip/master';
